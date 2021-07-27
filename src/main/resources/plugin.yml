@@ -1,0 +1,4 @@
+name: Gapple
+version: ${project.version}
+main: me.kvlike.gapple.Gapple
+api-version: 1.16
